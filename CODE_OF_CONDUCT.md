@@ -52,4 +52,4 @@
 
 行動規範に対しての意見や提案がある場合は，[lyralis/rfcs](https://github.com/lyralis/rfcs) に新規の RFCs を作成するかオーナーに DM を送ってください．
 
-最後にこの行動規範は [Rust コミュニティの行動規範](https://www.rust-lang.org/policies/code-of-conduct) を参考にしています．
+この行動規範は [Rust コミュニティの行動規範](https://www.rust-lang.org/policies/code-of-conduct) を参考にしています．
